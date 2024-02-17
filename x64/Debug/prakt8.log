@@ -1,0 +1,6 @@
+﻿  prakt8.cpp
+C:\Users\Incl\Desktop\CPP\prakt8\prakt8.cpp(24,82): warning C4838: Преобразование из "const char [14]" в "bool" требует сужающего преобразования.
+C:\Users\Incl\Desktop\CPP\prakt8\prakt8.cpp(25,82): warning C4838: Преобразование из "const char [17]" в "bool" требует сужающего преобразования.
+C:\Users\Incl\Desktop\CPP\prakt8\prakt8.cpp(26,82): warning C4838: Преобразование из "const char [14]" в "bool" требует сужающего преобразования.
+C:\Users\Incl\Desktop\CPP\prakt8\prakt8.cpp(27,82): warning C4838: Преобразование из "const char [17]" в "bool" требует сужающего преобразования.
+  prakt8.vcxproj -> C:\Users\Incl\Desktop\CPP\prakt8\x64\Debug\prakt8.exe
